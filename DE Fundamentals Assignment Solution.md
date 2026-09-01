@@ -12,6 +12,7 @@ available for further insights that can support business growth.
 
 **Collection**  
 ![][image2](image2.png)
+
 **Social Media**: Largely unstructured data, consisting mainly of customer posts or tweets.  
 **Call Center Logs**: A combination of structured and unstructured data. Structured data may include agent\_id, call\_id, call\_duration, and call\_outcome, while unstructured data may include call recordings.  
 **SMS**: Unstructured customer message data.  
